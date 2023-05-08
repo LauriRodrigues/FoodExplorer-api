@@ -1,0 +1,18 @@
+{
+  "name": "food_explorer",
+  "version": "1.0.0",
+  "description": "food delivery web application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch ./src/server.js"
+  },
+  "keywords": [],
+  "author": "Lauriana Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1"
+  }
+}
