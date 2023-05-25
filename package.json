@@ -5,18 +5,23 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node --watch ./src/server.js"
+    "dev": "node --watch ./src/server.js",
+    "migrate": "knex migrate:latest",
+    "start": "pm2-runtime start ecosystem.config.cjs --env production"
   },
   "keywords": [],
   "author": "Lauriana Rodrigues",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-async-errors": "^3.1.1",
     "jsonwebtoken": "^9.0.0",
     "knex": "^2.4.2",
     "multer": "^1.4.5-lts.1",
+    "pm2": "^5.3.0",
     "sqlite": "^4.2.0",
     "sqlite3": "^5.1.6"
   }
