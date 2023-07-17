@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo Explorer" title="Explorer" src="./assets/readme/Logo2-sombra.png">
+  <img alt="Logo Explorer" title="Explorer" src="./assets/Logo2-sombra.png">
 </div>
 	
 <h4 align="center"> 
