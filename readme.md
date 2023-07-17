@@ -47,5 +47,3 @@
 <img alt="Tabelas do banco de dados" title="Database RocketNotes" src="./assets/database.png" width="70%">
 
 <h2 align=left> ✅ Como executar o projeto </h2>
-
-
