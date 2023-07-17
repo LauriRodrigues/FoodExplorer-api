@@ -15,15 +15,24 @@
 </div>
 
 <p align="center">
- <a href="#">Deploy</a> •
- <a href="#">Layout</a> •
- <a href="#">Repositório front-end</a>
+🔗
+ <a href="foodexplorerreact.netlify.app">Deploy</a> •
+ <a href="https://www.figma.com/file/fPv621Bek9glIP5ZvqSl2t/food-explorer-v2-(Community)?mode=dev">Layout</a> •
+ <a href="https://github.com/LauriRodrigues/FoodExplorer-front">Repositório front-end</a>
 </p>
 
-<h2 align=left> 💻 Sobre o projeto </h3>
+<h2 align=left> 💻 Sobre o projeto </h2>
 <p> Back-end do projeto final do programa <strong>Explorer</strong> da <a href="https://www.rocketseat.com.br/"> <strong>Rocketseat</strong> </a>. Consiste em uma API completa em NodeJS para um cardápio digital de um restaurante fictício. Criamos e manipulamos um banco de dados SQLite utilizando o Query Builder Knex.js.<p>
+
+- [x] Aplicação responsiva.
+- [x] O usuário pode criar sua conta, fornecendo nome, e-mail e senha.
+- [x] Autenticação de login, com diferenciação no layout e funcionalidades para usuário administrador e usuário comum.
+- [x] Os dados da aplicação (usuários e cadastros de pratos) são todos armazenados em um banco de dados SQLite.
+- [x] O admin pode fazer o cadastro e edição de pratos com as informações necessárias e também o upload de uma imagem.
+- [x] O usuário consegue fazer uma busca pelo prato desejado através do nome ou ingredientes utilizados.
+- [x] Projeto com boa organização de pastas e com nomes significativos para variáveis e funções.
   
-<h2 align=left> 🛠 Tecnologias utilizadas </h3>
+<h2 align=left> 🛠 Tecnologias utilizadas </h2>
 
 <div align=left>
   <img alt="Logo JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -36,5 +45,7 @@
 
 <h2 align=left> ⚙ Tabelas </h2>
 <img alt="Tabelas do banco de dados" title="Database RocketNotes" src="./assets/database.png" width="70%">
+
+<h2 align=left> ✅ Como executar o projeto </h2>
 
 
