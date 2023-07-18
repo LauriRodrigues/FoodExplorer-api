@@ -46,4 +46,16 @@
 <h2 align=left> ⚙ Tabelas </h2>
 <img alt="Tabelas do banco de dados" title="Database RocketNotes" src="./assets/database.png" width="70%">
 
-<h2 align=left> ✅ Como executar o projeto </h2>
+<h2 align=left> ✅ Como testar o projeto </h2>
+
+<p>Você pode testar o projeto no <a href="foodexplorerreact.netlify.app">Deploy</a>. Se preferir pode fazer o cadastro de um usuário, ou logar nos usuários já cadastrados:</p>
+
+```bash
+# Login do administrador
+$ email: admin@admin.com
+$ password: 123
+
+# Login do usuário comum
+$ email: user@user.com
+$ password: 123
+```
