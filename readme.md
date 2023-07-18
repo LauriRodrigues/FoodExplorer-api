@@ -16,7 +16,7 @@
 
 <p align="center">
 🔗
- <a href="foodexplorerreact.netlify.app">Deploy</a> •
+ <a href="https://foodexplorerreact.netlify.app/">Deploy</a> •
  <a href="https://www.figma.com/file/fPv621Bek9glIP5ZvqSl2t/food-explorer-v2-(Community)?mode=dev">Layout</a> •
  <a href="https://github.com/LauriRodrigues/FoodExplorer-front">Repositório front-end</a>
 </p>
